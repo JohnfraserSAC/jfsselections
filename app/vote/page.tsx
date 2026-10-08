@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const voteInfo = {
   date: "Thursday, October 8th",           
-  time: "11:00 AM - 2:46 PM",           
+  time: "11:00 AM - 12:13 PM",           
   location: "Back Atrium",   
   notes: "Make sure to bring your ID!", 
 };
